@@ -55,7 +55,7 @@ https://docs.google.com/document/d/14h-OnZRR5SDWfZZYN4_EcK4U6LSeN5Oiem0GT9CUhwU/
 2. Are we going to get any support down the road if the software we install fails for some reason.
 
 ✋One thing I'm having trouble understanding:
-1. I use Cygwin and WSL (Windows Subsystem Linux) would that interfere with the software we are going to use down the road
+1. I use Cygwin and WSL (Windows Subsystem Linux) would that interfere with the software we are going to use down the road.
 
 ___
 
