@@ -31,12 +31,12 @@ What is differences between home directory or root directory.
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [September]/[20] 
 
 #### 🗒️Notes from class:
-
+https://docs.google.com/presentation/d/130If4gXJq0aelLmvAJ3EdPIy9_63ZtBi9f1kuU08_Ao/edit#slide=id.g157197ab384_0_178
 #### 📚Resources:
-
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 
 #### 💭Daily Reflection:
 
