@@ -1,5 +1,5 @@
 # Week [week#1]
-## [month]/[day] - [month]/[day]
+## [September]/[12] - [September]/[14]
 
 # Topic: TKH orientation
 

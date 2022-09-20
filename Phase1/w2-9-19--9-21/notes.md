@@ -1,17 +1,16 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week2]
+## [September]/[19] - [September]/[21]
 
-# Topic:
+# Topic: 
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [September]/[19]
 
 #### 🗒️Notes from class:
 
 #### 📚Resources:
-
-
+https://dangitgit.com/
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
