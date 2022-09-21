@@ -37,20 +37,21 @@ ___
 https://docs.google.com/presentation/d/130If4gXJq0aelLmvAJ3EdPIy9_63ZtBi9f1kuU08_Ao/edit#slide=id.g157197ab384_0_178
 #### 📚Resources:
 https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+https://github.com/git-guides
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned different Git commands and steps that allows use to upload our changes to our files and folders to Github.
+2. I learned the meanings behind the different Git commands.
+3. I learned how to properly fork and clone a Git repository.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Is there any other quick methods to upload our files, folders, and changes of those files and folders to Github.
+2. Why is a repository within a repository, and what is best way to avoid that from happening.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. How should are folders and files be organized or setup. 
 
 ___
 
