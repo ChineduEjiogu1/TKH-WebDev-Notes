@@ -55,24 +55,24 @@ https://github.com/git-guides
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [September]/[21]
 #### 🗒️Notes from class:
-
+https://docs.github.com/en/get-started/quickstart/hello-world
 #### 📚Resources:
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned to make branches in Github from website and command line.
+2. I learned to do a pull request and merge with my main branch or default branch.
+3. I learned to delete a branch from Github, both from the website and command line.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. What are the naming conventions for a branch in Github.
+2. How would we solve merging conflicts if we are with other teammates.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. How to organizing repos and files properly and troubleshooting Github.
  
 
