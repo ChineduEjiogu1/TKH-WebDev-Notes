@@ -1,30 +1,41 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week3]
+## [September]/[26] - [September]/[28]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [September]/[26]
 
 #### 🗒️Notes from class:
+https://docs.google.com/document/d/1GpnC1hCXY7naGGzsOuRwnWrZ_jgVE4qPEv4i0QZgxrQ/edit
 
 #### 📚Resources:
+https://coolors.co/
+
+https://www.behance.net/search/projects?search=developer%20portfolio%20web%20design&tracking_source=typeahead_search_suggestion
+
+https://www.figma.com/community/file/1075811850250564922
+
+https://www.figma.com/community/file/1148068000749592600
+
+https://www.figma.com/file/dbaYzsQ7dWtzpAKW3qPJoS/Design-File-Template?node-id=0%3A1
+
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned what Figma is used for.
+2. I learned about Figma assets, addons, resources, tools, templates, kits and different shapes that 
+3. I learned how to make something in Figma, more specifically wireframes.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. What are some good resources to learn figma in a quick manner.
+2. How would we convert our Figma to HTML and CSS.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I wish we had more practice with figma before we got an assignment on it.
 
 
 ___
