@@ -40,26 +40,33 @@ https://www.figma.com/file/dbaYzsQ7dWtzpAKW3qPJoS/Design-File-Template?node-id=0
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [September]/[27]
 
 #### 🗒️Notes from class:
+https://docs.google.com/document/d/1GpnC1hCXY7naGGzsOuRwnWrZ_jgVE4qPEv4i0QZgxrQ/edit
 
 #### 📚Resources:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+https://flukeout.github.io/
+
+https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox
+
+https://www.theodinproject.com/lessons/foundations-growing-and-shrinking
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned about Flexbox.
+2. I learned about Flexbox different properties, ie flex-wrap, flex-grow, display, justify-content.
+3. I learned when to used this different property terms  and how it manipulate or change HTML elements or tags on a webpage.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. What is Flexbox really used for.
+2. What are the limiting factors of Flexbox and the positive factors of Flexbox.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Is flexbox better than CSS-Grid.
 
 ___
 
