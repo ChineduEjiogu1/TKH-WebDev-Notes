@@ -70,24 +70,31 @@ https://www.theodinproject.com/lessons/foundations-growing-and-shrinking
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [September]/[28]
 #### 🗒️Notes from class:
-
+https://docs.google.com/document/d/1GpnC1hCXY7naGGzsOuRwnWrZ_jgVE4qPEv4i0QZgxrQ/edit
 #### 📚Resources:
+https://www.internetingishard.com/html-and-css/flexbox/
+
+https://github.com/wrenpurcell/flex-interneting-is-hard-tutorial
+
+https://www.youtube.com/watch?v=hs3piaN4b5I
+
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned more Flexbox and how certain properties get change and 
+manipulated.
+2. I learned more about it varies properties and it's characteristics.
+3. I learned how to use Figma tools.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Flexbox axis and alignment.
+2. flex container order, flex item order, static item widths, flex item alignment and flexible items.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Being proficient in Figma.
  
 
