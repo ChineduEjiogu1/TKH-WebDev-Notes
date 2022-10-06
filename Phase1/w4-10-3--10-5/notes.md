@@ -57,24 +57,33 @@ https://docs.google.com/document/d/1ojcl9bLoGBLv15Vmn6NQnbuHDjp9WedsWki9xW8zv5w/
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [October]/[5]
 #### 🗒️Notes from class:
-
+https://docs.google.com/document/d/1MkKoDxuAlVoA13ZJ3x_JmA8fTdLYr-G1RHYr4HLA1mQ/edit
 #### 📚Resources:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions
+
+https://eloquentjavascript.net/03_functions.html 
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random 
+
+https://www.theodinproject.com/lessons/foundations-fundamentals-part-3 
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned functions and to change html elements style properties with JavaScript only.
+2. I learned nested functions and the keyword defer.
+3. I learned different way to declare a function i.e. arrow functions
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Scope resolution.
+2. How to avoid nested if if/else statements.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. The rock, paper, scissors and the homework due next week.
  
 
