@@ -82,14 +82,19 @@ https://docs.google.com/document/d/1RpPnCZjrVgHZWQVqna3uKVPoDjwA-23O-ac8YrC3GW8/
 2. Learned how follow instructions for resources we been given.
 3. Learned some command-line keywords/commands
 
+
 👁️Two things I would like to know more about:
 1. Are we getting any training for Github so we can utilize it better.
 2. How are going Github conflicts and are we going to do a pull request.
 
 ✋One thing I'm having trouble understanding:
+<<<<<<< HEAD
 1. Understanding Github different commands and branches, merges and remote.
 <<<<<<< HEAD
 =======
+=======
+1. Understanding Github different commands and branches, merges and remote. 
+>>>>>>> e5eb615 (change)
  
 
 
