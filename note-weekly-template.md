@@ -1,5 +1,9 @@
 # Week [week#1]
+<<<<<<< HEAD
 ## [September]/[12] - [September]/[14]
+=======
+## [month]/[day] - [month]/[day]
+>>>>>>> 2bc2078 (change)
 
 # Topic: TKH orientation
 
@@ -55,7 +59,11 @@ https://docs.google.com/document/d/14h-OnZRR5SDWfZZYN4_EcK4U6LSeN5Oiem0GT9CUhwU/
 2. Are we going to get any support down the road if the software we install fails for some reason.
 
 ✋One thing I'm having trouble understanding:
+<<<<<<< HEAD
 1. I use Cygwin and WSL (Windows Subsystem Linux) would that interfere with the software we are going to use down the road.
+=======
+1. I use Cygwin and WSL (Windows Subsystem Linux) would that interfere with the software we are going to use down the road
+>>>>>>> 2bc2078 (change)
 
 ___
 
@@ -80,5 +88,11 @@ https://docs.google.com/document/d/1RpPnCZjrVgHZWQVqna3uKVPoDjwA-23O-ac8YrC3GW8/
 
 ✋One thing I'm having trouble understanding:
 1. Understanding Github different commands and branches, merges and remote.
+<<<<<<< HEAD
+=======
+ 
+
+
+>>>>>>> 2bc2078 (change)
  
 
