@@ -35,26 +35,35 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [October]/[18] 
 
 #### 🗒️Notes from class:
-
+https://docs.google.com/document/d/1nFc7z-fo18qgaIE9lYZYgxWV7E_Q5WlgHkK_5nUoFss/edit
 #### 📚Resources:
+https://javascript.info/class
+
+https://www.freecodecamp.org/news/how-javascript-implements-oop/
+
+https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript
+
+https://www.simplilearn.com/tutorials/javascript-tutorial/oop-in-javascript
+
+https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned about Classes
+2. I learned more about advance aspects of objects
+3. I learned about constructor and this property
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Inheritance and parent class
+2. The advantages of classes
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. How to not get confused with arrays in objects and the best way to iterate it.
 
 ___
 
