@@ -67,24 +67,24 @@ https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [October]/[19]
 #### 🗒️Notes from class:
-
+https://docs.google.com/document/d/1nFc7z-fo18qgaIE9lYZYgxWV7E_Q5WlgHkK_5nUoFss/edit
 #### 📚Resources:
-
+https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned nested loops within a 2d array
+2. I learned recursion
+3. I learned do while loops
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Inheritance and and its positive advantages
+2. A positive use of recursion
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Recursion
  
 
