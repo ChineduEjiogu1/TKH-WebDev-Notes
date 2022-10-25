@@ -36,17 +36,24 @@ class DeckOfCards
     }
 }
 
-class deckOfCardCanDelete extends DeckOfCards{
-    delete(){
 
+class deckOfCardCanDelete extends DeckOfCards{
+    delete(type, number){
+        
+        for(let i=0;i<this.deck.length;i++){
+        if(this.deck[i].types === type && this.deck[i].numbers === number){
+        delete this.deck[i]
+        }
     }
 }
-
+}
 deckDeleter1 = new deckOfCardCanDelete()
 deckDeleter1.createDeck()
 console.log("random Card ", deckDeleter1.randomCard())
-console.dir(deckDeleter1)
 
+deckDeleter1.delete("clover", 5)
+console.dir(deckDeleter1)
+//console.log(deckDeleter1.deck)
 
 
 // 2. Create a method on the Deck class that dynamically generates each card object

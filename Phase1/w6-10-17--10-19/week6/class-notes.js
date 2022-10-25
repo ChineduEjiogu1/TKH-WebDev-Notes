@@ -213,8 +213,15 @@ let bike = {
   
   //create class Rabbit that inherits from Animal:
   class Rabbit extends Animal {
+    constructor(name, earType){
+    // Super is getting the name property from Animal
+    // must be called first! before anything else in constructor
+    super(name)
+    this.earType = earType
+  }
+    
     hide() {
-    return`${this.name} hides!`
+      return`${this.name} hides!`
     }
   }
   
