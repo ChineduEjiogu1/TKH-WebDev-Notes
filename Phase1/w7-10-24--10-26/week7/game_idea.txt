@@ -1,0 +1,6 @@
+Options
+--------
+
+tic-tac-toe
+connect4
+War
