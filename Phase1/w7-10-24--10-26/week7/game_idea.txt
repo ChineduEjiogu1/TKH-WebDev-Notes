@@ -4,3 +4,24 @@ Options
 tic-tac-toe
 connect4
 War
+
+
+connect4
+----------
+connect4 will be a 2d array that will hold columns and rows values
+
+connect4 is a 6 rows by 7 columns 
+
+I have to predetermine the winning positions in an array 
+-- 4 vertical consecutively matching positions - separate functions
+-- 4 diagonally consecutively matching positions - separate function
+-- 4 horizontally consecutively matching positions - separate function
+
+if someone places a chip/piece it must start from bottom to top
+
+If the user input choices match the predetermined winning positions without the impeding of the computer or user 
+the use wins and visa versa
+
+The computer/cpu will be a random generated function
+-- reverse for loop
+-- takes column and rows

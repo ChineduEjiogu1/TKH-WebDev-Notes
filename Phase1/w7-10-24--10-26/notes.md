@@ -60,7 +60,7 @@ https://www.khanacademy.org/computing/computer-programming/programming/good-prac
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [October]/[26]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -69,15 +69,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned how to plan/blueprint a coding assignment
+2. I learned to plan for my JS game, and Array.from() splice() push() methods/functions 
+3. I learn to plan out a function
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Refactoring code
+2. Code readability 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. N/A
  
 
