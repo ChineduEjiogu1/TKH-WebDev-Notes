@@ -25,3 +25,36 @@ the use wins and visa versa
 The computer/cpu will be a random generated function
 -- reverse for loop
 -- takes column and rows
+
+
+function checkVertical 
+-- iterate through the 2d array, but only iterating the rows part of the array (one for loop)
+-- compare the index of the rows part of the 2d array to see if they match or identical
+-- count the number of times the rows index match 
+-- if the count equals 4, return true 
+
+function checkHorizontal
+-- iterate through the 2d array, but only iterating the columns part of the array (one for loop)
+-- compare the index of the columns part of the 2d array to see if they match or identical
+-- count the number of times the columns index match 
+
+function checkDiagonallyUpwards
+-- iterate through the 2d array using nested for loops going through both rows and columns or x and y axis
+-- add the indexes of both x and y axis, if the next x and y index that are added together total number is equal to 
+the previous number total then its a valid diagonal
+-- count the number of times this pattern is done  
+-- if the count equals 4, return true 
+
+function checkDiagonallyDownwards
+-- iterate through the 2d array using nested for loops going through both rows and columns or x and y axis
+-- add the indexes of both x and y axis, if the next x and y index that are added together total number is an
+increase of two from the previous number then its a valid diagonal
+-- count the number of times this pattern is done  
+-- if the count equals 4, return true 
+
+[0,0][0,1][0,2][0,3][0,4][0,5][0,6]
+[1,0][1,1][1,2][1,3][1,4][1,5][1,6]
+[2,0][2,1][2,2][2,3][2,4][2,5][2,6]
+[3,0][3,1][3,2][3,3][3,4][3,5][3,6]
+[4,0][4,1][4,2][4,3][4,4][4,5][4,6]
+[5,0][5,1][5,2][5,3][5,4][5,5][5,6]
