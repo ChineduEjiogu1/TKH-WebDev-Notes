@@ -65,26 +65,36 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Meth
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [November]/[1] 
 
 #### 🗒️Notes from class:
-
+https://docs.google.com/document/d/1GO79dWDgulF0bBiMwsj5MlV5nYymi2yz-oGANfv-6mA/edit
 #### 📚Resources:
+https://www.w3schools.com/jsref/dom_obj_event.asp 
 
+JS events:
+https://www.educba.com/javascript-event-listener/ 
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events 
+
+https://javascript.info/introduction-browser-events 
+
+Intro to callbacks:
+https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/ 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned about event listeners/handlers.
+2. I learned more about difference between methods and properties.
+3. I learned about DRY and the different methods
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Better methods of practicing.
+2. Problem solving methods/strategies.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Event listeners/handlers
 
 ___
 
