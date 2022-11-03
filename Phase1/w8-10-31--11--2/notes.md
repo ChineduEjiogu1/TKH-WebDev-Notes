@@ -98,7 +98,7 @@ https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbac
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [November]/[2]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -107,15 +107,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned chaining functions.
+2. I learned about reduce() and filter() functions.
+3. I learned about .join() function.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Problem solving and structured thing.
+2. Planning, framework for thinking.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Not having fear on practicing, solving algorithms or doing projects on my own.
  
 

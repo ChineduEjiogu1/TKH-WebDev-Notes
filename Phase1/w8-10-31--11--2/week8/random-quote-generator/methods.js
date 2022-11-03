@@ -57,3 +57,108 @@ const newStudentlist = studentNames.map(function(student){
 });
 
 console.log(newStudentlist);
+
+const str2 = "10";
+parseInt(str);
+
+studentNames.filter(function(student){
+    return student.firstName = "Gracelyn"
+})
+
+const sentence = "My class is amazing";
+
+let newSentence = sentence.split(" ").map(function(str)
+{
+    if(str.toLowerCase() === "amazing")
+    {
+        return " full of awesomeness";
+    }
+    else
+    {
+        return str;
+    }
+}).join(" ");
+
+console.log(newSentence);
+
+
+let fellows = [
+    {
+        firstName: "James",
+        lastName: "McAvoy",
+        grade: 65
+    },
+    {
+        firstName: "Jimmy",
+        lastName: "Neutron",
+        grade: 100
+    },
+    {
+        firstName: "Barbara",
+        lastName: "Townsend",
+        grade: 4
+    },
+    {
+        firstName: "Nancy",
+        lastName: "Norris",
+        grade: "77"
+    },
+    {
+        firstName: "Mariana",
+        lastName: "Rodriguez",
+        grade: "99"
+    },
+    {
+        firstName: "Jose",
+        lastName: "Ortiz",
+        grade: 73
+    },
+    {
+        firstName: "Issac",
+        lastName: "Newton",
+        grade: 100
+    }
+]
+
+// fellows = fellows.filter(function(grade){return grade >= 65}).map(grade => grade += grade / 6)
+
+// console.log(fellows)
+
+fellows.filter(function(grade)
+{
+    return grade >= 65;
+}).map(function(grade)
+{
+    grade += grade / 6;
+})
+
+// console.log(fellows);
+
+
+const studentGrades = fellows.map(function(student)
+{
+    return parseInt(student.grade);
+}).filter(function(studentGrade)
+{
+    return studentGrade > 64 && studentGrade < 81;
+});
+
+const totalGrade = studentGrades.reduce(function(previousValue, currentValue){
+    return previousValue + currentValue;
+}, 0)
+
+console.log(totalGrade/studentGrades.length);
+
+// previousValue = 0;
+// currentValue = 10;
+
+// previousValue = 10;
+// currentValue = 20;
+
+// previousValue = 30;
+// currentValue = 30;
+
+// previousValue = 60;
+// currentValue = 40;
+
+// returned value = 100;
