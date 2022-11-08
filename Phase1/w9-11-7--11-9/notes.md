@@ -5,12 +5,19 @@
 
 ___
 
-### Day 1, [Novemeber]/[7]
+### Day 1, [November]/[7]
 
 #### 🗒️Notes from class:
+https://docs.google.com/document/d/1OusmvzL2TkD6W5LoxZiNX4w_9n9TXNpTqnPQNO7zs7k/edit
 
 #### 📚Resources:
-
+https://developer.mozilla.org/en-US/docs/Glossary/Recursion 
+https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
+https://www.freecodecamp.org/news/quick-intro-to-recursion/ 
+https://dev.to/spukas/intro-to-recursion-in-javascript-n3h 
+Currying:
+https://www.geeksforgeeks.org/what-is-currying-function-in-javascript/
+Leetcode: leetcode.com 
 
 #### 💭Daily Reflection:
 
