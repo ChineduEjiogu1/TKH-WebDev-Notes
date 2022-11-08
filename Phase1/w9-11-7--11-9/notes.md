@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week9]
+## [November]/[7] - [Novemeber]/[9]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [Novemeber]/[7]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned recursion.
+2. I learned about the call stack.
+3. I learned about recursion can be used for iterating through data.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Stack and heap and  difference between the two.
+2. Time complexity.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Starting a project from scratch without using a tutorial.
 
 
 ___
