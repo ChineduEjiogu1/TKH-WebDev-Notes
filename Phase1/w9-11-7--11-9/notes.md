@@ -2,7 +2,7 @@
 ## [November]/[7] - [Novemeber]/[9]
 
 # Topic:
-
+Recursion, Currying, Data Structures
 ___
 
 ### Day 1, [November]/[7]
@@ -36,7 +36,7 @@ Leetcode: leetcode.com
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [November]/[8] 
 
 #### 🗒️Notes from class:
 
@@ -46,16 +46,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned currying.
+2. I learned how to use currying in a real world example.
+3. I learned about stacks and their functionality and behavior.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Nodes.
+2. Binary search tree and queues.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Planning out time to practice and learn these topics.
 
 ___
 
