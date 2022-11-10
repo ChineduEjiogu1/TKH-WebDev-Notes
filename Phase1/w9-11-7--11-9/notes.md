@@ -39,8 +39,13 @@ ___
 ### Day 2, [November]/[8] 
 
 #### 🗒️Notes from class:
+https://docs.google.com/document/d/1OusmvzL2TkD6W5LoxZiNX4w_9n9TXNpTqnPQNO7zs7k/edit
 
 #### 📚Resources:
+https://www.geeksforgeeks.org/stack-data-structure/?ref=lbp
+https://www.geeksforgeeks.org/queue-data-structure/?ref=lbp 
+https://www.geeksforgeeks.org/binary-search-tree-data-structure/
+https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-version-manager-to-install-node-js-and-npm
 
 
 #### 💭Daily Reflection:
@@ -59,24 +64,36 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [November]/[9]
 #### 🗒️Notes from class:
-
+https://docs.google.com/document/d/1OusmvzL2TkD6W5LoxZiNX4w_9n9TXNpTqnPQNO7zs7k/edit
 #### 📚Resources:
+EcmaScript:
+https://en.wikipedia.org/wiki/ECMAScript
+https://www.javascripttutorial.net/es-next/
+
+Modules
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+
+NPm
+https://nodejs.org/en/knowledge/getting-started/npm/what-is-npm/ 
+
+package.json
+https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/ 
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned about stack data structures varies methods.
+2. I learned about npm packages, package.json and package-lock.json files, node modules
+3. I learned to fetch data from an API.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. npm securities.
+2. npm dependencies.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Try, catch and Promise.
  
 
