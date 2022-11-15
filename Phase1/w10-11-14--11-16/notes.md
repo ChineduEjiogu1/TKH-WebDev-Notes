@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week10]
+## [November]/[14] - [November]/[16]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [November]/[14]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned how to make a starter project.
+2. I learned about vite.
+3. I learned about async functions and await.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Node.js.
+2. datasets.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. How is async better than then/catch.
 
 
 ___
