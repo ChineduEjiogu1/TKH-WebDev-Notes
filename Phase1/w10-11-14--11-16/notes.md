@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [November]/[15]
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned more about APIs.
+2. I learned status messages i.e. 404, 200.
+3. I learned how to use .append more.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to work themoviedb API.
+2. The power of APIs.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Comparing data in a API.
 
 ___
 
