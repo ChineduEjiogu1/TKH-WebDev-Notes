@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [November]/[16]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned how an API key by putting in the env file that will be git-ignored.
+2. I learned to get data from an API that needs an API key.
+3. I learned what .env file does.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Postman.
+2. IMDB API.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Planning the project/ time management.
  
 
