@@ -53,10 +53,11 @@ ___
 ___
 
 ### Day 3, [November]/[16]
+
 #### 🗒️Notes from class:
+https://docs.google.com/document/d/1QBFkAQH4GD586MS4kIVayOkpE_iT5bU_2ETc2oAe8t8/edit
 
 #### 📚Resources:
-
 
 #### 💭Daily Reflection:
 
