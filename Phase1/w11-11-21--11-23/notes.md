@@ -8,7 +8,7 @@ ___
 ### Day 1, [November]/[21]
 
 #### 🗒️Notes from class:
-
+https://docs.google.com/document/d/1Wj_moM3OX43pjaLMUXw0IcppNHYmYJ6lCZd_oWNQVXY/edit
 #### 📚Resources:
 
 
@@ -32,23 +32,23 @@ ___
 ### Day 2, [month]/[day] 
 
 #### 🗒️Notes from class:
-
+https://docs.google.com/document/d/1Wj_moM3OX43pjaLMUXw0IcppNHYmYJ6lCZd_oWNQVXY/edit
 #### 📚Resources:
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I reviewed phase 1 concepts.
+2. I completed my test
+3. I learned what .hover function is.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to add next button for changing page for different querying results. 
+2. Other ideas for functionality in my API project.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Doing it on my own and not following tutorials.
 
 ___
 
