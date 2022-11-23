@@ -29,7 +29,7 @@ https://docs.google.com/document/d/1Wj_moM3OX43pjaLMUXw0IcppNHYmYJ6lCZd_oWNQVXY/
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [November]/[22] 
 
 #### 🗒️Notes from class:
 https://docs.google.com/document/d/1Wj_moM3OX43pjaLMUXw0IcppNHYmYJ6lCZd_oWNQVXY/edit
@@ -41,7 +41,7 @@ https://docs.google.com/document/d/1Wj_moM3OX43pjaLMUXw0IcppNHYmYJ6lCZd_oWNQVXY/
 💡3 Things I learned today:
 1. I reviewed phase 1 concepts.
 2. I completed my test
-3. I learned what .hover function is.
+3. I learned what .hover function is and JQuery.
 
 👁️Two things I would like to know more about:
 1. How to add next button for changing page for different querying results. 
