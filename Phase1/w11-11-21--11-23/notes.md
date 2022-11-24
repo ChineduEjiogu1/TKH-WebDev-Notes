@@ -52,24 +52,24 @@ https://docs.google.com/document/d/1Wj_moM3OX43pjaLMUXw0IcppNHYmYJ6lCZd_oWNQVXY/
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [November]/[22]
 #### 🗒️Notes from class:
-
+https://docs.google.com/document/d/1Wj_moM3OX43pjaLMUXw0IcppNHYmYJ6lCZd_oWNQVXY/edit
 #### 📚Resources:
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned how to do a coding presentation.
+2. I learned about other APIS and projects.
+3. I learned what other methods people took to solve their problems on their project.
 
-👁️Two things I would like to know more about:
-1. 
-2. 
+:eye:Two things I would like to know more about:
+1. React JS.
+2. What is JSX.
 
-✋One thing I'm having trouble understanding:
-1. 
+:hand:One thing I'm having trouble understanding:
+1. Problem solving.
  
 
