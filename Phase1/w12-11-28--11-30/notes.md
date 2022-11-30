@@ -34,26 +34,29 @@ https://reactjs.org/docs/introducing-jsx.html
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [November]/[29] 
 
 #### 🗒️Notes from class:
-
+https://docs.google.com/document/d/1XbMUECQWPGgHiUkSgbf8Hc_l_Kguu4j2QwpJo2LHKkg/edit
+https://docs.google.com/presentation/d/1N0IPoOc3fBU8hD1aYlb5bH9p6UgIoFoMn4PDk7tOsnQ/edit#slide=id.g19eb2e148c2_0_9
 #### 📚Resources:
-
+https://beta.reactjs.org/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned about React props.
+2. I learned more about React components.
+3. I learned about styling and objects in React.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. React fragments
+2. React hooks
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Props and components.
 
 ___
 
