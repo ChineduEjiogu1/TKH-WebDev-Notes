@@ -95,7 +95,10 @@ function App()
         ))}
         
       </ul>
-        {sampleData.map(youtube => ( 
+      
+      <ConditionalComponent showComponent1={true}/>
+
+      {sampleData.map(youtube => ( 
           <div className='container'> 
             <img src={youtube.thumbnailImg}/> 
             <div className='content'>
@@ -103,10 +106,8 @@ function App()
               <p>{youtube.videoUploader}</p>
               <p>{youtube.dateVideoUploaded}</p> 
               <p>{youtube.videoViews}</p>
-          </div> 
-        </div>))}
-      <ConditionalComponent showComponent1={true}/>
-
+            </div> 
+          </div>))}
     </div>   
   );
   
