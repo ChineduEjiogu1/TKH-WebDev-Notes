@@ -54,6 +54,7 @@ function YoutubeComponent(props)
   )
 }
 
+
 function App() 
 {
   
@@ -98,17 +99,17 @@ function App()
       
       <ConditionalComponent showComponent1={true}/>
 
+      <div className='list-of-youtube'>
       {sampleData.map(youtube => ( 
-          <div className='container'> 
-            <img src={youtube.thumbnailImg}/> 
-            <div className='content'>
-              <p>{youtube.videoTitle}</p> 
-              <p>{youtube.videoUploader}</p>
-              <p>{youtube.dateVideoUploaded}</p> 
-              <p>{youtube.videoViews}</p>
-            </div> 
-          </div>))}
-    </div>   
+          <YoutubeComponent
+          thumbnailImg={youtube.thumbnailImg}
+          videoTitle={youtube.videoTitle}
+          uploader={youtube.videoUploader}
+          videoUploaded={youtube.dateVideoUploaded}
+          videoViews={youtube.videoViews} />
+          ))}
+    </div>  
+    </div>
   );
   
 }

@@ -29,6 +29,7 @@ body {
 .app-container{
   display: flex;
   margin: 20px;
+  flex-direction: column;
 }
 
 .container{
@@ -49,4 +50,8 @@ body {
 
 .container > .content > p:first-child{
   font-weight: bold;
+}
+
+.list-of-youtube{
+  display: flex;
 }
