@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { Fragment, useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
 
@@ -54,6 +54,97 @@ function YoutubeComponent(props)
   )
 }
 
+let sampleData2 = [
+  {
+    title: "The Great Something",
+    description: ""
+  },
+  {
+    title: "",
+    description: "eqwhljwhedklqjh"
+  }
+]
+
+function ChangeColor() {
+  //color is the state variable 
+  //setColor is the function that updates color
+  //useState is setting color's initial value to "red"
+  const [color, setColor] = useState('red');
+
+  return (
+    //create a div to show color
+    <div style={{ height: '50px', height: '50px', backgroundColor: color }}>
+    {/* input takes in text from the user
+      
+      use onChange event to run setColor every time there is a change to the value typed into the input
+
+      run setColor function to set the color of the div to the color the user typed in to the input which is e.target.value
+
+    */}
+      <input onChange={(e) => setColor(e.target.value)} type="text"></input>
+    </div>
+  );
+}
+ 
+
+function WelcomeComponent2(props)
+{
+  const [state, setNewState] = useState(0)
+
+  let i = 0;
+  console.log("i added to 1", i+1)
+  i = i + 1;
+  console.log("i after added to one", i);
+
+  return (
+    <div>
+      {state}
+      <button onClick={() => setNewState(state + 1)}>Increase</button>
+    </div>
+  )
+}
+
+// return (
+//     <div>
+//       {
+//         sampleData.map(data => (
+//           <div>
+//             {
+// //Nested Ternary Operator
+//               data.title ? <div>{data.title}</div> : data.description ? <div>{data.description}</div> : <div></div>
+//             }
+//           </div>
+//         ))
+//       }
+//     </div>
+//   )
+
+//Fragments
+return (
+  <Fragment>
+    {/* <div>Div one</div>
+    <div>Div two</div> */}
+    {
+      sampleData.map(data => (
+        <div>{data.title}</div>
+      ))
+    }
+  </Fragment>
+)
+
+//Shorthand
+return (
+  <>
+    {/* <div>Div one</div>
+    <div>Div two</div> */}
+    {
+      sampleData.map(data => (
+        <div>{data.title}</div>
+      ))
+    }
+  </>
+)
+
 
 function App() 
 {
@@ -108,10 +199,47 @@ function App()
           videoUploaded={youtube.dateVideoUploaded}
           videoViews={youtube.videoViews} />
           ))}
-    </div>  
+    </div> 
+    <ChangeColor/>
     </div>
   );
   
+}
+
+
+
+//Old school
+class WelcomeComponent extends React.Component {
+  constructor(){
+    // State here
+    this.state = {
+
+    }
+  }
+
+  componentDidMount(){
+    //Api call
+  }
+
+  componentDidUpdate(){
+    //when props or state changes
+  }
+
+  componentWillUnmount(){
+    //What to do when removed
+  }
+
+  render(){
+    return (
+      <div>{this.props.whqjwhedlk}</div>
+    )
+  }
+}
+// New school
+function WelcomeComponent(props){
+  return (
+    <div>{props.wjhqkljhwjskhd}</div>
+  )
 }
 
 export default App
