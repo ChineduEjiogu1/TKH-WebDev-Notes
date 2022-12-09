@@ -64,22 +64,27 @@ ___
 ### Day 3, [December]/[7]
 
 #### 🗒️Notes from class:
+https://docs.google.com/document/d/12jmmK54DnZ2Eaa4VrvGFo_37IheTweEWq1sb8KEDHlk/edit
 
 
 #### 📚Resources:
-
+https://chakra-ui.com/
+https://getbootstrap.com/
+https://react-bootstrap.github.io/
+https://reactstrap.github.io/
+https://mui.com/
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. I learned 
-2. I learned 
-3. I learned 
+1. I learned using bootstrap documentation to style jsx.
+2. I learned about Chakra components to style jsx.
+3. I learned to use state hooks.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Bootstrap documentation.
+2. Chakra documentation. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Trying to toggle between sign up and login page.
  
 
