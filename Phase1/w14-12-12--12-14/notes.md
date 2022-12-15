@@ -68,22 +68,24 @@ ___
 ### Day 3, [December]/[14]
 
 #### 🗒️Notes from class:
-https://docs.google.com/document/d/1QBFkAQH4GD586MS4kIVayOkpE_iT5bU_2ETc2oAe8t8/edit
+https://docs.google.com/document/d/1KTKTr-A6Bik0ZfpR48oY5fPejhJJDa1b_lGgeWMvX4M/edit
+https://docs.google.com/presentation/d/1huUxL_SHfxPSIAlDYiwIRdDO_C4ylfGnDRZMbR8xU5g/edit?usp=sharing
 
 #### 📚Resources:
-
+https://reactrouter.com/en/main
+https://reactrouter.com/en/main/start/tutorial
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. I learned how an API key by putting in the env file that will be git-ignored.
-2. I learned to get data from an API that needs an API key.
-3. I learned what .env file does.
+1. I learned how make a todo app in React JS.
+2. I learned more useRef and useEffect.
+3. I learned about React JS routes.
 
 👁️Two things I would like to know more about:
-1. Postman.
-2. IMDB API.
+1. React JS routes.
+2. Authentication with React JS.
 
 ✋One thing I'm having trouble understanding:
-1. Planning the project/ time management.
+1. Using React hooks more efficiently and using React routes.
  
 
