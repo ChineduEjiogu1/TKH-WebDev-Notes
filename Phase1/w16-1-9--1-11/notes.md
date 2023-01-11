@@ -53,7 +53,7 @@ https://pokeapi.co/
 
 👁️Two things I would like to know more about:
 1. How would I use this in other apis.
-2. 
+2. loader function capabilities.
 
 ✋One thing I'm having trouble understanding:
 1. Getting better at routes.
