@@ -9,6 +9,8 @@ import {
 import { ChakraProvider, Box, HStack } from "@chakra-ui/react";
 import App from "./App";
 import "./index.css";
+import { getTrending, getSpecificGif} from "./api";
+import GifDetail from "./pages/gif-detail";
 
 //Code chunk this layout component
 function Layout() {
@@ -40,9 +42,22 @@ const router = createBrowserRouter([
       {
         path: "trending",
         element: <div>This is trending</div>,
+        loader: () => {
+          return getTrending();
+        },
       },
     ],
   },
+
+  {
+    path: "/gif/:gifId",
+    element: <GifDetail/>,
+    loader: ({ params }) => {
+      const gifId = params.gifId;
+  
+      return getSpecificGif(gifId);
+    }
+  }
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(
