@@ -74,15 +74,15 @@ https://pokeapi.co/
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. I reviewed 
-2. I learned 
-3. I learned 
+1. I demoed a mini-project a precursor to the next project.
+2. I learned to use routes better and pull data from an api with in React JS.
+3. I reviewed fundamental practices in React JS.
 
 👁️Two things I would like to know more about:
-1. Protected routes.
-2. localStorage usage.
+1. Learn how to use Chakra more efficiently.
+2. Learn how to use Bootstrap more efficiently.
 
 ✋One thing I'm having trouble understanding:
-1. How to do Mondays homework.
+1. What unique element to add to my project.
 
 ___
