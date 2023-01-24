@@ -24,8 +24,8 @@ https://www.w3schools.com/nodejs/default.asp
 3. I learned about Express.JS.
 
 👁️Two things I would like to know more about:
-1. learning more about Node.JS
-2. Learning more about the things I can do with Node.JS
+1. learning more about Node.JS.
+2. Learning more about the things I can do with Node.JS.
 
 ✋One thing I'm having trouble understanding:
 1. Preparing and understanding the next phase of TKH.
