@@ -52,7 +52,7 @@ https://github.com/joselevelsup/tkh-javascript-examples-pt-2/tree/main/node-api-
 3. I learned to work on a web server.
 
 👁️Two things I would like to know more about:
-1. How would I like to learn more about how web browsers.work in client server relationship.
+1. How would I like to learn more about how web browsers work in client server relationship.
 2. How Express.JS works with Node.js.
 
 ✋One thing I'm having trouble understanding:
