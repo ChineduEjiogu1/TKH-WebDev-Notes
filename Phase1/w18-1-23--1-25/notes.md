@@ -63,23 +63,27 @@ ___
 ### Day 3, [January]/[25]
 
 #### 🗒️Notes from class:
-
+https://docs.google.com/document/d/1Viele2asZ4cW0kDq8pNJfdzCXCcI7l2mKrGstkILq3Q/edit
 
 #### 📚Resources:
-
+https://en.wikipedia.org/wiki/Test-driven_development
+https://www.chaijs.com/
+https://mochajs.org/
+https://github.com/ladjs/supertest
+https://www.cypress.io/
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. I demoed a mini-project a precursor to the next project.
-2. I learned to use routes better and pull data from an api with in React JS.
-3. I reviewed fundamental practices in React JS.
+1. I learned to implement TDD onto a Server app.
+2. I learned the libraries that help us perform TDD.
+3. I learned what Test Driven Development.
 
 👁️Two things I would like to know more about:
-1. Learn how to use Chakra more efficiently.
-2. Learn how to use Bootstrap more efficiently.
+1. Learn more about supertest.
+2. Learn more abut Jest.io.
 
 ✋One thing I'm having trouble understanding:
-1. What unique element to add to my project.
+1. How to use supertest and jest functions, methods and features.
 
 ___
